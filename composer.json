@@ -1,0 +1,21 @@
+{
+    "name": "gd_peter/tool",
+    "description": "工具库",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">= 7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "GdPeter\\Tool\\": "tools/"
+        }
+    },
+    "authors": [
+        {
+            "name": "peter",
+            "email": "youngpeter@foxmain.com"
+        }
+    ],
+    "require": {}
+}
